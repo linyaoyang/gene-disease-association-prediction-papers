@@ -2,10 +2,10 @@
 A collection of papers and resources about gene disease association prediction.
 
 ## Table of Contents
-- [AI4GDA](#Gene-disease-association-prediction-papers)
+- [Gene-disease-association-prediction-papers](#Gene-disease-association-prediction-papers)
   - [Related Surveys](#related-surveys)
-  - [KG-enhanced LLMs](#kg-enhanced-llms)
-    - [KG-enhanced LLM Pre-training](#kg-enhanced-llm-pre-training)
+  - [Datasets](#Datasets)
+    - [Gene-related datasets](#kg-enhanced-llm-pre-training)
     - [KG-enhanced LLM Inference](#kg-enhanced-llm-inference)
     - [KG-enhanced LLM Interpretability](#kg-enhanced-llm-interpretability)
   - [LLM-augmented KGs](#llm-augmented-kgs)
@@ -29,7 +29,7 @@ A collection of papers and resources about gene disease association prediction.
 * Knowledge Enhanced Pretrained Language Models: A Compreshensive Survey (Arxiv, 2021) [[paper]](https://arxiv.org/pdf/2110.08455.pdf)
 * Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal (Arxiv, 2022) [[paper]](https://arxiv.org/abs/2212.05767)[[code]](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)
 
-## KG-enhanced LLMs
+## Datasets
 ### KG-enhanced LLM Pre-training
 - ERNIE: Enhanced Language Representation with Informative Entities (ACL, 2019) [[paper]](https://aclanthology.org/P19-1139.pdf)
 - Exploiting structured knowledge in text via graph-guided representation learning (EMNLP, 2019) [[paper]](https://aclanthology.org/2020.emnlp-main.722.pdf)
