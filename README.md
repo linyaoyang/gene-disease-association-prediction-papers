@@ -13,7 +13,6 @@ A collection of papers and resources about unifying large language models (LLMs)
 
 Large language models (LLMs) have achieved remarkable success and generalizability in various applications. However, they often fall short of capturing and accessing factual knowledge. Knowledge graphs (KGs) are structured data models that explicitly store rich factual knowledge. Nevertheless, KGs are hard to construct and existing methods in KGs are inadequate in handling the incomplete and dynamically changing nature of real-world KGs. Therefore, it is natural to unify LLMs and KGs together and simultaneously leverage their advantages.
 
-<img src="figs/PLM_vs_KG.png" width = "600" />
 
 ## News
 🔭 This project is under development. You can hit the **STAR** and **WATCH** to follow the updates.
