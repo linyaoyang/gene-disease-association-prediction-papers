@@ -5,7 +5,7 @@ A collection of papers and resources about gene disease association prediction.
 - [Gene-disease-association-prediction-papers](#Gene-disease-association-prediction-papers)
   - [Related Surveys](#related-surveys)
   - [Datasets](#Datasets)
-    - [Gene-related datasets](#kg-enhanced-llm-pre-training)
+    - [Gene-related datasets](#gene-related-datasets)
     - [KG-enhanced LLM Inference](#kg-enhanced-llm-inference)
     - [KG-enhanced LLM Interpretability](#kg-enhanced-llm-interpretability)
   - [LLM-augmented KGs](#llm-augmented-kgs)
@@ -30,7 +30,7 @@ A collection of papers and resources about gene disease association prediction.
 * Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal (Arxiv, 2022) [[paper]](https://arxiv.org/abs/2212.05767)[[code]](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)
 
 ## Datasets
-### KG-enhanced LLM Pre-training
+### Gene-related datasets
 - ERNIE: Enhanced Language Representation with Informative Entities (ACL, 2019) [[paper]](https://aclanthology.org/P19-1139.pdf)
 - Exploiting structured knowledge in text via graph-guided representation learning (EMNLP, 2019) [[paper]](https://aclanthology.org/2020.emnlp-main.722.pdf)
 - SKEP: Sentiment knowledge enhanced pre-training for sentiment analysis (ACL, 2020) [[paper]](https://aclanthology.org/2020.acl-main.374.pdf)
