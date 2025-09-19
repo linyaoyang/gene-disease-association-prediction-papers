@@ -6,13 +6,14 @@ A collection of papers and resources about gene disease association prediction.
   - [Related Surveys](#related-surveys)
   - [Datasets](#Datasets)
     - [Gene-related datasets](#gene-related-datasets)
-    - [KG-enhanced LLM Inference](#kg-enhanced-llm-inference)
-    - [KG-enhanced LLM Interpretability](#kg-enhanced-llm-interpretability)
-  - [LLM-augmented KGs](#llm-augmented-kgs)
-    - [LLM-augmented KG Embedding](#llm-augmented-kg-embedding)
-    - [LLM-augmented KG Completion](#llm-augmented-kg-completion)
-    - [LLM-augmented KG-to-Text Generation](#llm-augmented-kg-to-text-generation)
-    - [LLM-augmented KG Question Answering](#llm-augmented-kg-question-answering)
+    - [Disease-related datasets](#disease-related-datasets)
+    - [Other datasets](#other-datasets)
+  - [Methods](#methods)
+    - [Traditional similarity-based methods](#traditional-similarity-based-methods)
+    - [Machine learning methods](#machine-learning-methods)
+    - [Deep learning methods](#deep-learning-methods)
+    - [Graph neural networks](#graph-neural-networks)
+    - [Large language models](#large-language-models)
   - [Synergized LLMs + KGs](#synergized-llms--kgs)
     - [Knowledge Representation](#knowledge-representation)
     - [Reasoning](#reasoning)
@@ -50,7 +51,7 @@ A collection of papers and resources about gene disease association prediction.
 - JAKET: joint pre-training of knowledge graph and language understanding (AAAI, 2022) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21417/21166)
 - Tele-Knowledge Pre-training for Fault Analysis (ICDE, 2023) [[paper]](https://arxiv.org/abs/2210.11298)
 
-### KG-enhanced LLM Inference
+### Disease-related datasets
 - Barack’s wife hillary: Using knowledge graphs for fact-aware language modeling (ACL, 2019) [[paper]](https://aclanthology.org/P19-1598.pdf)
 - Retrieval-augmented generation for knowledge-intensive nlp tasks (NeurIPS, 2020) [[paper]](https://proceedings.neurips.cc/paper_files/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
 - Realm: Retrieval-augmented language model pre-training (ICML, 2020) [[paper]](https://dl.acm.org/doi/pdf/10.5555/3524938.3525306)
@@ -64,7 +65,7 @@ A collection of papers and resources about gene disease association prediction.
 - LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments (EMNLP Findings, 2024) [[paper](https://arxiv.org/abs/2408.15903)] 
 
 
-### KG-enhanced LLM Interpretability
+### Other datasets
 - Language models as knowledge bases (EMNLP, 2019) [[paper]](https://arxiv.org/pdf/1909.01066.pdf)
 - Kagnet: Knowledge-aware graph networks for commonsense reasoning (Arxiv, 2019) [[paper]](https://arxiv.org/pdf/1909.02151.pdf)
 - Autoprompt: Eliciting knowledge from language models with automatically generated prompts (EMNLP, 2020) [[paper]](https://arxiv.org/pdf/2010.15980.pdf)
@@ -79,8 +80,8 @@ A collection of papers and resources about gene disease association prediction.
 - How Pre-trained Language Models Capture Factual Knowledge? A Causal-Inspired Analysis (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2203.16747.pdf)
 - Can Knowledge Graphs Simplify Text? (CIKM, 2023) [[paper]](https://dl.acm.org/doi/10.1145/3583780.3615514)
 
-## LLM-augmented KGs
-### LLM-augmented KG Embedding
+## Methods
+### Traditional similarity-based methods
 - Entity Alignment with Noisy Annotations from Large Language Models (NeurIPS, 2024) [[paper](https://arxiv.org/abs/2405.16806)]
 - LambdaKG: A Library for Pre-trained Language Model-Based Knowledge Graph Embeddings (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2210.00305.pdf)
 - Integrating Knowledge Graph embedding and pretrained Language Models in Hypercomplex Spaces (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2208.02743.pdf)
@@ -91,7 +92,7 @@ A collection of papers and resources about gene disease association prediction.
 - KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation (TACL, 2020) [[paper]](https://arxiv.org/pdf/1911.06136.pdf)
 
 
-### LLM-augmented KG Completion
+### Machine learning methods
 - Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models (COLING 2024) [[paper]](https://arxiv.org/abs/2403.01972) [[Code]](https://github.com/quqxui/MPIKGC)
 - KG-BERT: BERT for knowledge graph completion (Arxiv, 2019) [[paper]](http://arxiv.org/abs/1909.03193)
 - Multi-task learning for knowledge graph completion with pre-trained language models (COLING, 2020) [[paper]](https://doi.org/10.18653/v1/2020.coling-main.153)
@@ -108,7 +109,7 @@ A collection of papers and resources about gene disease association prediction.
 - A framework for adapting pre-trained language models to knowledge graph completion (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.398)
 - Dipping plms sauce: Bridging structure and text for effective knowledge graph completion via conditional soft prompting (ACL, 2023) [[paper]](https://aclanthology.org/2023.findings-acl.729/)
 
-### LLM-augmented KG-to-Text Generation
+### Deep learning methods
 - GenWiki: A dataset of 1.3 million content-sharing text and graphs for unsupervised graph-to-text generation  (COLING, 2020) [[paper]](https://aclanthology.org/2020.coling-main.217.pdf)
 - KGPT: Knowledge-grounded pre-training for data-to-text generation (EMNLP 2020) [[paper]](https://aclanthology.org/2020.emnlp-main.697.pdf)
 - JointGT: Graph-text joint representation learning for text generation from knowledge graphs (ACL Findings, 2021) [[paper]](https://aclanthology.org/2021.findings-acl.223.pdf)
@@ -117,7 +118,19 @@ A collection of papers and resources about gene disease association prediction.
 - EventNarrative: A large-scale Event-centric Dataset for Knowledge Graph-to-Text Generation (Neurips, 2021) [[paper]](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/a3f390d88e4c41f2747bfa2f1b5f87db-Abstract-round1.html)
 - GAP: A graph-aware language model framework for knowledge graph-to-text generation (COLING, 2022) [[paper]](https://aclanthology.org/2022.coling-1.506.pdf)
 
-### LLM-augmented KG Question Answering
+### Graph neural networks
+- UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph (ICLR, 2023) [[paper]](https://arxiv.org/abs/2212.00959)
+- StructGPT: A General Framework for Large Language Model to Reason over Structured Data (Arxiv, 2023) [[paper]](https://arxiv.org/abs/2305.09645)
+- An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA (AAAI, 2022) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20215)
+- An Empirical Study of Pre-trained Language Models in Simple Knowledge Graph Question Answering (World Wide Web Journal, 2023) [[paper]](https://arxiv.org/abs/2303.10368)
+- Empowering Language Models with Knowledge Graph Reasoning for Open-Domain Question Answering (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.650.pdf)
+- DRLK: Dynamic Hierarchical Reasoning with Language Model and Knowledge Graph for Question Answering (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.342/)
+- Subgraph Retrieval Enhanced Model for Multi-hop Knowledge Base Question Answering (ACL, 2022) [[paper]](https://aclanthology.org/2022.acl-long.396.pdf)
+- GREASELM: GRAPH REASONING ENHANCED LANGUAGE MODELS FOR QUESTION ANSWERING (ICLR, 2022) [[paper]](https://openreview.net/pdf?id=41e9o6cQPj)
+- LaKo: Knowledge-driven Visual Question Answering via Late Knowledge-to-Text Injection (IJCKG, 2022) [[paper]](https://arxiv.org/abs/2207.12888)
+- QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering (NAACL, 2021) [[paper]](https://aclanthology.org/2021.naacl-main.45/)
+
+### Large language models
 - UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph (ICLR, 2023) [[paper]](https://arxiv.org/abs/2212.00959)
 - StructGPT: A General Framework for Large Language Model to Reason over Structured Data (Arxiv, 2023) [[paper]](https://arxiv.org/abs/2305.09645)
 - An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA (AAAI, 2022) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20215)
