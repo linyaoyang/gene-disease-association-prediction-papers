@@ -14,12 +14,11 @@ A collection of papers and resources about gene disease association prediction.
     - [Deep learning methods](#deep-learning-methods)
     - [Graph neural networks](#graph-neural-networks)
     - [Large language models](#large-language-models)
-  - [Synergized LLMs + KGs](#synergized-llms--kgs)
-    - [Knowledge Representation](#knowledge-representation)
-    - [Reasoning](#reasoning)
-  - [Applications](#applications)
-    - [Recommendation](#recommendation)
-    - [Fault Analysis](#fault-analysis)
+  - [Advances and Applications](#advances-and-applications)
+    - [Evaluation protocols and Results](#evaluation-protocols-and-results)
+    - [Applications](#applications)
+  - [Challenges and Future Directions](#challenges-and-future-directions)
+
 ## Related Surveys
 
 * Unifying Large Language Models and Knowledge Graphs: A Roadmap (TKDE, 2024) [[paper]](https://arxiv.org/pdf/2306.08302.pdf)
@@ -143,8 +142,8 @@ A collection of papers and resources about gene disease association prediction.
 - QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering (NAACL, 2021) [[paper]](https://aclanthology.org/2021.naacl-main.45/)
 
 
-## Synergized LLMs + KGs
-### Knowledge Representation
+## Advances and Applications
+### Evaluation protocols and Results
 * Tele-Knowledge Pre-training for Fault Analysis (ICDE, 2023) [[paper]](https://arxiv.org/abs/2210.11298)
 * Pre-training language model incorporating domain-specific heterogeneous knowledge into a unified representation (Expert Systems with Applications, 2023) [[paper]](https://www.sciencedirect.com/science/article/pii/S0957417422023879)
 * Deep Bidirectional Language-Knowledge Graph
@@ -152,16 +151,13 @@ Pretraining (NIPS, 2022) [[paper]](https://arxiv.org/abs/2210.09338)
 * KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation (TACL, 2021) [[paper]](https://aclanthology.org/2021.tacl-1.11.pdf)
 * JointGT: Graph-Text Joint Representation Learning for Text Generation from Knowledge Graphs (ACL 2021) [[paper]](https://aclanthology.org/2021.findings-acl.223/)
 
-### Reasoning
+### Applications
 * A Unified Knowledge Graph Augmentation Service for Boosting
 Domain-specific NLP Tasks (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2212.05251.pdf)
 * Unifying Structure Reasoning and Language Model Pre-training
 for Complex Reasoning (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2301.08913.pdf)
 * Complex Logical Reasoning over Knowledge Graphs using Large Language Models (Arxiv, 2023) [[paper]](https://arxiv.org/abs/2305.01157)
-## Applications
 
-### Recommender System
+## Challenges and Future Directions
 * RecInDial: A Unified Framework for Conversational Recommendation with Pretrained Language Models (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2110.07477.pdf)
-
-### Fault Analysis
 * Tele-Knowledge Pre-training for Fault Analysis (ICDE, 2023) [[paper]](https://arxiv.org/abs/2210.11298)
