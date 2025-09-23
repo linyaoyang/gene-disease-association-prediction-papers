@@ -9,7 +9,7 @@ A collection of papers and resources about gene disease association prediction.
     - [Disease-related datasets](#disease-related-datasets)
     - [Other datasets](#other-datasets)
   - [Methods](#methods)
-    - [Traditional similarity-based methods](#traditional-similarity-based-methods)
+    - [Network-based methods](#network-based-methods)
     - [Machine learning methods](#machine-learning-methods)
     - [Deep learning methods](#deep-learning-methods)
     - [Graph neural networks](#graph-neural-networks)
@@ -80,7 +80,7 @@ A collection of papers and resources about gene disease association prediction.
 - Can Knowledge Graphs Simplify Text? (CIKM, 2023) [[paper]](https://dl.acm.org/doi/10.1145/3583780.3615514)
 
 ## Methods
-### Traditional similarity-based methods
+### Network-based methods
 - Entity Alignment with Noisy Annotations from Large Language Models (NeurIPS, 2024) [[paper](https://arxiv.org/abs/2405.16806)]
 - LambdaKG: A Library for Pre-trained Language Model-Based Knowledge Graph Embeddings (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2210.00305.pdf)
 - Integrating Knowledge Graph embedding and pretrained Language Models in Hypercomplex Spaces (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2208.02743.pdf)
