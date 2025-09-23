@@ -153,9 +153,6 @@ Pretraining (NIPS, 2022) [[paper]](https://arxiv.org/abs/2210.09338)
 
 ### Applications
 * In silico prediction of novel therapeutic targets using gene--disease association data (Journal of translational medicine, 2017) [[paper]](https://link.springer.com/article/10.1186/s12967-017-1285-6)
-* Unifying Structure Reasoning and Language Model Pre-training
-for Complex Reasoning (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2301.08913.pdf)
-* Complex Logical Reasoning over Knowledge Graphs using Large Language Models (Arxiv, 2023) [[paper]](https://arxiv.org/abs/2305.01157)
 
 ## Challenges and Future Directions
 * RecInDial: A Unified Framework for Conversational Recommendation with Pretrained Language Models (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2110.07477.pdf)
