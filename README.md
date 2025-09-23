@@ -81,14 +81,7 @@ A collection of papers and resources about gene disease association prediction.
 
 ## Methods
 ### Network-based methods
-- Entity Alignment with Noisy Annotations from Large Language Models (NeurIPS, 2024) [[paper](https://arxiv.org/abs/2405.16806)]
-- LambdaKG: A Library for Pre-trained Language Model-Based Knowledge Graph Embeddings (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2210.00305.pdf)
-- Integrating Knowledge Graph embedding and pretrained Language Models in Hypercomplex Spaces (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2208.02743.pdf)
-- Endowing Language Models with Multimodal Knowledge Graph Representations (Arxiv, 2022) [[paper]](https://arxiv.org/abs/2206.13163)
-- Language Model Guided Knowledge Graph Embeddings (IEEE Access, 2022) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9831788)
-- Language Models as Knowledge Embeddings (IJCAI, 2022) [[paper]](https://www.ijcai.org/proceedings/2022/0318.pdf)
-- Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models (EMNLP, 2020) [[paper]](https://aclanthology.org/2020.findings-emnlp.25.pdf)
-- KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation (TACL, 2020) [[paper]](https://arxiv.org/pdf/1911.06136.pdf)
+- Network-based approaches for disease-gene association prediction using protein-protein interaction networks (International Journal of Molecular Sciences, 2022) [[paper](https://www.mdpi.com/1422-0067/23/13/7411)]
 
 
 ### Machine learning methods
