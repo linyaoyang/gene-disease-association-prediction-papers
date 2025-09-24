@@ -20,14 +20,8 @@ A collection of papers and resources about gene disease association prediction.
   - [Challenges and Future Directions](#challenges-and-future-directions)
 
 ## Related Surveys
-
-* Unifying Large Language Models and Knowledge Graphs: A Roadmap (TKDE, 2024) [[paper]](https://arxiv.org/pdf/2306.08302.pdf)
-* A Survey on Knowledge-Enhanced Pre-trained Language Models (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2212.13428.pdf)
-* A Survey of Knowledge-Intensive NLP with Pre-Trained Language Models (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2202.08772.pdf)
-* A Review on Language Models as Knowledge Bases (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2204.06031.pdf)
-* Generative Knowledge Graph Construction: A Review (EMNLP, 2022) [[paper]](https://arxiv.org/pdf/2210.12714.pdf)
-* Knowledge Enhanced Pretrained Language Models: A Compreshensive Survey (Arxiv, 2021) [[paper]](https://arxiv.org/pdf/2110.08455.pdf)
-* Reasoning over Different Types of Knowledge Graphs: Static, Temporal and Multi-Modal (Arxiv, 2022) [[paper]](https://arxiv.org/abs/2212.05767)[[code]](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning)
+* Recent advances in predicting gene–disease associations (F1000Research, 2017) [[paper]](https://pmc.ncbi.nlm.nih.gov/articles/PMC5414807/)
+* Recent advances in network-based methods for disease gene prediction (Briefings in bioinformatics, 2021) [[paper]](https://academic.oup.com/bib/article/22/4/bbaa303/6023077?login=false)
 
 ## Datasets
 ### Gene-related datasets
