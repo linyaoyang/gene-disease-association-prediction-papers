@@ -102,13 +102,7 @@ A collection of papers and resources about gene disease association prediction.
 - Dipping plms sauce: Bridging structure and text for effective knowledge graph completion via conditional soft prompting (ACL, 2023) [[paper]](https://aclanthology.org/2023.findings-acl.729/)
 
 ### Deep learning methods
-- GenWiki: A dataset of 1.3 million content-sharing text and graphs for unsupervised graph-to-text generation  (COLING, 2020) [[paper]](https://aclanthology.org/2020.coling-main.217.pdf)
-- KGPT: Knowledge-grounded pre-training for data-to-text generation (EMNLP 2020) [[paper]](https://aclanthology.org/2020.emnlp-main.697.pdf)
-- JointGT: Graph-text joint representation learning for text generation from knowledge graphs (ACL Findings, 2021) [[paper]](https://aclanthology.org/2021.findings-acl.223.pdf)
-- Investigating pretrained language models for graph-to-text generation (NLP4ConvAI, 2021) [[paper]](https://aclanthology.org/2021.nlp4convai-1.20.pdf)
-- Few-shot knowledge graph-to-text generation with pretrained language models (ACL, 2021) [[paper]](https://aclanthology.org/2021.findings-acl.136.pdf)
-- EventNarrative: A large-scale Event-centric Dataset for Knowledge Graph-to-Text Generation (Neurips, 2021) [[paper]](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/a3f390d88e4c41f2747bfa2f1b5f87db-Abstract-round1.html)
-- GAP: A graph-aware language model framework for knowledge graph-to-text generation (COLING, 2022) [[paper]](https://aclanthology.org/2022.coling-1.506.pdf)
+- PheSeq, a Bayesian deep learning model to enhance and interpret the gene-disease association studies (Genome Medicine, 2024) [[paper]](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01330-7)
 
 ### Graph neural networks
 - UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph (ICLR, 2023) [[paper]](https://arxiv.org/abs/2212.00959)
