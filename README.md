@@ -25,7 +25,7 @@ A collection of papers and resources about gene disease association prediction.
 
 ## Datasets
 ### Gene-related datasets
-- **HumanNet Humannet v3: an improved database of human gene networks for disease research (ACL, 2019) [[paper]](https://aclanthology.org/P19-1139.pdf)
+- **HumanNet** Humannet v3: an improved database of human gene networks for disease research (Nucleic Acids Res, 2022) [[paper]](https://pubmed.ncbi.nlm.nih.gov/34747468/) [[Link]](https://www.inetbio.org/humannet/)
 
 ### Disease-related datasets
 - Barack’s wife hillary: Using knowledge graphs for fact-aware language modeling (ACL, 2019) [[paper]](https://aclanthology.org/P19-1598.pdf)
