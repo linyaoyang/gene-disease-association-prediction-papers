@@ -98,6 +98,11 @@ A collection of papers and resources about gene disease association prediction.
 - Network-based association analysis to infer new disease-gene relationships using large-scale protein interactions (PLoS One, 2018) [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0199435)
 - Prediction and Validation of Disease Genes Using HeteSim Scores (IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2017) [[paper]](https://ieeexplore.ieee.org/abstract/document/7406753?casa_token=DmIQoe0OXVkAAAAA:rMD-fktnFocbRaLvmXWoRzdOkn93-auoG0-hyo_HvXU0rywJGowpHE-4Rh_NxSJGQqv5YODymld5) [[Code]](http://lab.malab.cn/data/HeteSim/index.jsp)
 - DGLinker: flexible knowledge-graph prediction of disease–gene associations (Nucleic Acids Research, 2021) [[paper]](https://academic.oup.com/nar/article/49/W1/W153/6298614?login=false) [[Code]](https://dglinker.rosalind.kcl.ac.uk)
+- Multimodal network diffusion predicts future disease–gene–chemical associations (Bioinformatics, 2019) [[paper]](https://academic.oup.com/bioinformatics/article/35/9/1536/5124277?searchresult=1) [[Code]](https://github.com/LichtargeLab/multimodal-network-diffusion)
+- Gene co-expression analysis for functional classification and gene–disease predictions (Briefings in Bioinformatics, 2018) [[paper]](https://academic.oup.com/bib/article/19/4/575/2888441?searchresult=1)
+- NIDM: network impulsive dynamics on multiplex biological network for disease-gene prediction (Briefings in Bioinformatics, 2021) [[paper]](https://academic.oup.com/bib/article/22/5/bbab080/6236070?searchresult=1)
+- HyMM: hybrid method for disease-gene prediction by integrating multiscale module structure (Briefings in Bioinformatics, 2022) [[paper]](https://academic.oup.com/bib/article/23/3/bbac072/6547263?searchresult=1)
+- A network-based method for brain disease gene prediction by integrating brain connectome and molecular network (Briefings in Bioinformatics, 2022) [[paper]](https://academic.oup.com/bib/article/23/1/bbab459/6415315?searchresult=1) [[Code]](https://github.com/MedicineBiology-AI/brainMI)
 
 ### Machine learning methods
 - Analysis for Disease Gene Association Using Machine Learning (IEEE Access, 2020) [[paper]](https://ieeexplore.ieee.org/abstract/document/9181557#full-text-header)
@@ -106,6 +111,7 @@ A collection of papers and resources about gene disease association prediction.
 - A feature-learning-based method for the disease-gene prediction problem (International Journal of Data Mining and Bioinformatics, 2020) [[paper]](https://www.inderscienceonline.com/doi/epdf/10.1504/IJDMB.2020.109502)
 - Group spike-and-slab lasso generalized linear models for disease prediction and associated genes detection by incorporating pathway information (Bioinformatics, 2018) [[paper]](https://academic.oup.com/bioinformatics/article/34/6/901/4565593?searchresult=1) [[Code]](http://www.ssg.uab.edu/bhglm/)
 - DiSTect: a Bayesian model for disease-associated gene discovery and prediction in spatial transcriptomics (Bioinformatics, 2025) [[paper]](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaf530/8261372?searchresult=1) [[Code]](https://github.com/StaGill/DiSTect)
+- AITeQ: a machine learning framework for Alzheimer’s prediction using a distinctive five-gene signature (Briefings in Bioinformatics, 2024) [[paper]](https://academic.oup.com/bib/article/25/4/bbae291/7692307?searchresult=1) [[Code]](https://github.com/ishtiaque-ahammad/AITeQ)
 
 ### Deep learning methods
 - PheSeq, a Bayesian deep learning model to enhance and interpret the gene-disease association studies (Genome Medicine, 2024) [[paper]](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01330-7) [[Code]](https://github.com/bionlp-hzau/PheSeq)
@@ -117,6 +123,7 @@ A collection of papers and resources about gene disease association prediction.
 - Enhancing the prediction of disease–gene associations with multimodal deep learning (Bioinformatics, 2019) [[paper]](https://academic.oup.com/bioinformatics/article/35/19/3735/5368487) [[Code]](https://github.com/luoping1004/dgMDL)
 - Large-Scale Discovery of Disease-Disease and Disease-Gene Associations (Scientific Reports, 2016) [[paper]](https://www.nature.com/articles/srep32404)
 - Biomedical knowledge graph embeddings for personalized medicine: Predicting disease-gene associations (Expert Systems, 2022) [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/exsy.13181)
+- KDGene: knowledge graph completion for disease gene prediction using interactional tensor decomposition (Briefings in Bioinformatics, 2024) [[paper]](https://academic.oup.com/bib/article/25/3/bbae161/7644136?searchresult=1) [[Code]](https://github.com/2020MEAI/KDGene)
 
 ### Graph neural networks
 - Ensemble learning methods and heterogeneous graph network fusion: building drug-gene-disease triple association prediction models (Briefings in Bioinformatics, 2025) [[paper]](https://academic.oup.com/bib/article/26/4/bbaf369/8211399?login=false)
@@ -125,10 +132,13 @@ A collection of papers and resources about gene disease association prediction.
 - Predicting gene-disease associations via graph embedding and graph convolutional networks (BIBM, 2019) [[paper]](https://ieeexplore.ieee.org/abstract/document/8983350)
 - VGE: Gene-Disease Association by Variational Graph Embedding (International Journal of Crowd Science, 2024) [[paper]](https://ieeexplore.ieee.org/abstract/document/10530642)
 - Disease gene prediction with privileged information and heteroscedastic dropout (Bioinformatics, 2021) [[paper]](https://academic.oup.com/bioinformatics/article/37/Supplement_1/i410/6319695?searchresult=1) [[Code]](https://github.com/juanshu30/Disease-Gene-Prioritization-with-Privileged-Information-and-Heteroscedastic-Dropout)
+- A comprehensive graph neural network method for predicting triplet motifs in disease–drug–gene interactions (Bioinformatics, 2025) [[paper]](https://academic.oup.com/bioinformatics/article/41/2/btaf023/7964716?searchresult=1) [[Code]](https://github.com/zhanglabNKU/TriMoGCL)
+- Ensemble learning methods and heterogeneous graph network fusion: building drug-gene-disease triple association prediction models (Briefings in Bioinformatics, 2025) [[paper]](https://academic.oup.com/bib/article/26/4/bbaf369/8211399?searchresult=1)
 
 ### Large language models
 - GPAD: a natural language processing-based application to extract the gene-disease association discovery information from OMIM (BMC BIOINFORMATICS, 2024) [[paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05693-x)
 - Multi-ontology embeddings approach on human-aligned multi-ontologies representation for gene-disease associations prediction (Heliyon, 2023) [[paper]](https://www.cell.com/heliyon/fulltext/S2405-8440(23)08710-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405844023087108%3Fshowall%3Dtrue) [[Code]](https://github.com/Yihao21/MultiOE-4-GDA-Prediction)
+- A large language model framework for literature-based disease–gene association prediction (Briefings in Bioinformatics, 2025) [[paper]](https://academic.oup.com/bib/article/26/1/bbaf070/8042066?searchresult=1) [[Code]](https://github.com/ailabstw/LORE)
 
 ## Advances and Applications
 ### Evaluation protocols and Results
@@ -141,6 +151,8 @@ Pretraining (NIPS, 2022) [[paper]](https://arxiv.org/abs/2210.09338)
 
 ### Applications
 * In silico prediction of novel therapeutic targets using gene--disease association data (Journal of translational medicine, 2017) [[paper]](https://link.springer.com/article/10.1186/s12967-017-1285-6)
+* AITeQ: a machine learning framework for Alzheimer’s prediction using a distinctive five-gene signature (Briefings in Bioinformatics, 2024) [[paper]](https://academic.oup.com/bib/article/25/4/bbae291/7692307?searchresult=1) [[Code]](https://github.com/ishtiaque-ahammad/AITeQ)
+* Improving drug response prediction via integrating gene relationships with deep learning (Briefings in Bioinformatics, 2024) [[paper]](https://academic.oup.com/bib/article/25/3/bbae153/7642699?searchresult=1#supplementary-data) [[Code]](https://github.com/user15632/DIPK)
 
 ## Challenges and Future Directions
 * RecInDial: A Unified Framework for Conversational Recommendation with Pretrained Language Models (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2110.07477.pdf)
