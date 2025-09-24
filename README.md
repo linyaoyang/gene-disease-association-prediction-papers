@@ -104,6 +104,7 @@ A collection of papers and resources about gene disease association prediction.
 ### Deep learning methods
 - PheSeq, a Bayesian deep learning model to enhance and interpret the gene-disease association studies (Genome Medicine, 2024) [[paper]](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01330-7)
 - Heterogeneous biomedical entity representation learning for gene–disease association prediction (Briefings in Bioinformatics, 2024) [[paper]](https://academic.oup.com/bib/article/25/5/bbae380/7735275?login=false)
+- MGREL: A multi-graph representation learning-based ensemble learning method for gene-disease association prediction (Computers in Biology and Medicine, 2023) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0010482523001075?via%3Dihub) [[Code]](https://github.com/ziyang-W/MGREL)
 
 ### Graph neural networks
 - UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph (ICLR, 2023) [[paper]](https://arxiv.org/abs/2212.00959)
