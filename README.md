@@ -102,9 +102,10 @@ A collection of papers and resources about gene disease association prediction.
 - Dipping plms sauce: Bridging structure and text for effective knowledge graph completion via conditional soft prompting (ACL, 2023) [[paper]](https://aclanthology.org/2023.findings-acl.729/)
 
 ### Deep learning methods
-- PheSeq, a Bayesian deep learning model to enhance and interpret the gene-disease association studies (Genome Medicine, 2024) [[paper]](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01330-7)
-- Heterogeneous biomedical entity representation learning for gene–disease association prediction (Briefings in Bioinformatics, 2024) [[paper]](https://academic.oup.com/bib/article/25/5/bbae380/7735275?login=false)
+- PheSeq, a Bayesian deep learning model to enhance and interpret the gene-disease association studies (Genome Medicine, 2024) [[paper]](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01330-7) [[Code]](https://github.com/bionlp-hzau/PheSeq)
+- Heterogeneous biomedical entity representation learning for gene–disease association prediction (Briefings in Bioinformatics, 2024) [[paper]](https://academic.oup.com/bib/article/25/5/bbae380/7735275?login=false) [[Code]](https://github.com/ZhaohanM/FusionGDA)
 - MGREL: A multi-graph representation learning-based ensemble learning method for gene-disease association prediction (Computers in Biology and Medicine, 2023) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0010482523001075?via%3Dihub) [[Code]](https://github.com/ziyang-W/MGREL)
+- Multi-domain knowledge graph embeddings for gene-disease association prediction (Journal of Biomedical Semantics, 2023) [[paper]](https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-023-00291-x) [[Code]](https://github.com/liseda-lab/KGE_Predictions_GD)
 
 ### Graph neural networks
 - UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph (ICLR, 2023) [[paper]](https://arxiv.org/abs/2212.00959)
