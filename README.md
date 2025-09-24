@@ -95,11 +95,17 @@ A collection of papers and resources about gene disease association prediction.
 - Gene co-expression analysis for functional classification and gene–disease predictions (Briefings in Bioinformatics, 2018) [[paper]](https://academic.oup.com/bib/article/19/4/575/2888441)
 - Identifying gene-disease associations using centrality on a literature mined gene-interaction network (Bioinformatics, 2008) [[paper]](https://academic.oup.com/bioinformatics/article/24/13/i277/236041)
 - Disease gene prediction for molecularly uncharacterized diseases (PLoS computational biology, 2019) [[paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007078)
+- Network-based association analysis to infer new disease-gene relationships using large-scale protein interactions (PLoS One, 2018) [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0199435)
+- Prediction and Validation of Disease Genes Using HeteSim Scores (IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2017) [[paper]](https://ieeexplore.ieee.org/abstract/document/7406753?casa_token=DmIQoe0OXVkAAAAA:rMD-fktnFocbRaLvmXWoRzdOkn93-auoG0-hyo_HvXU0rywJGowpHE-4Rh_NxSJGQqv5YODymld5) [[Code]](http://lab.malab.cn/data/HeteSim/index.jsp)
+- DGLinker: flexible knowledge-graph prediction of disease–gene associations (Nucleic Acids Research, 2021) [[paper]](https://academic.oup.com/nar/article/49/W1/W153/6298614?login=false) [[Code]](https://dglinker.rosalind.kcl.ac.uk)
 
 ### Machine learning methods
 - Analysis for Disease Gene Association Using Machine Learning (IEEE Access, 2020) [[paper]](https://ieeexplore.ieee.org/abstract/document/9181557#full-text-header)
 - Probability-based collaborative filtering model for predicting gene–disease associations (BMC Medical Genomics, 2017) [[paper]](https://link.springer.com/article/10.1186/s12920-017-0313-y)
 - Automatic extraction of gene-disease associations from literature using joint ensemble learning (PLos One, 2018) [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0200699)
+- A feature-learning-based method for the disease-gene prediction problem (International Journal of Data Mining and Bioinformatics, 2020) [[paper]](https://www.inderscienceonline.com/doi/epdf/10.1504/IJDMB.2020.109502)
+- Group spike-and-slab lasso generalized linear models for disease prediction and associated genes detection by incorporating pathway information (Bioinformatics, 2018) [[paper]](https://academic.oup.com/bioinformatics/article/34/6/901/4565593?searchresult=1) [[Code]](http://www.ssg.uab.edu/bhglm/)
+- DiSTect: a Bayesian model for disease-associated gene discovery and prediction in spatial transcriptomics (Bioinformatics, 2025) [[paper]](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaf530/8261372?searchresult=1) [[Code]](https://github.com/StaGill/DiSTect)
 
 ### Deep learning methods
 - PheSeq, a Bayesian deep learning model to enhance and interpret the gene-disease association studies (Genome Medicine, 2024) [[paper]](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01330-7) [[Code]](https://github.com/bionlp-hzau/PheSeq)
@@ -118,6 +124,7 @@ A collection of papers and resources about gene disease association prediction.
 - Identifying candidate gene–disease associations via graph neural networks (Entropy, 2023) [[paper]](https://www.mdpi.com/1099-4300/25/6/909) [[Code]](https://github.com/pietrocinaglia/gnn_gda)
 - Predicting gene-disease associations via graph embedding and graph convolutional networks (BIBM, 2019) [[paper]](https://ieeexplore.ieee.org/abstract/document/8983350)
 - VGE: Gene-Disease Association by Variational Graph Embedding (International Journal of Crowd Science, 2024) [[paper]](https://ieeexplore.ieee.org/abstract/document/10530642)
+- Disease gene prediction with privileged information and heteroscedastic dropout (Bioinformatics, 2021) [[paper]](https://academic.oup.com/bioinformatics/article/37/Supplement_1/i410/6319695?searchresult=1) [[Code]](https://github.com/juanshu30/Disease-Gene-Prioritization-with-Privileged-Information-and-Heteroscedastic-Dropout)
 
 ### Large language models
 - GPAD: a natural language processing-based application to extract the gene-disease association discovery information from OMIM (BMC BIOINFORMATICS, 2024) [[paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05693-x)
