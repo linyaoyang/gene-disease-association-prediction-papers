@@ -81,8 +81,8 @@ A collection of papers and resources about gene disease association prediction.
 
 ## Methods
 ### Network-based methods
-- Network-based approaches for disease-gene association prediction using protein-protein interaction networks (International Journal of Molecular Sciences, 2022) [[paper](https://www.mdpi.com/1422-0067/23/13/7411)]
-
+- Network-based approaches for disease-gene association prediction using protein-protein interaction networks (International Journal of Molecular Sciences, 2022) [[paper]](https://www.mdpi.com/1422-0067/23/13/7411)
+- Predicting Drug–Gene–Disease Associations by Tensor Decomposition for Network-Based Computational Drug Repositioning (Biomedicines, 2023) [[paper]](https://www.mdpi.com/1422-0067/23/13/7411)
 
 ### Machine learning methods
 - Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models (COLING 2024) [[paper]](https://arxiv.org/abs/2403.01972) [[Code]](https://github.com/quqxui/MPIKGC)
@@ -103,6 +103,7 @@ A collection of papers and resources about gene disease association prediction.
 
 ### Deep learning methods
 - PheSeq, a Bayesian deep learning model to enhance and interpret the gene-disease association studies (Genome Medicine, 2024) [[paper]](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01330-7)
+- Heterogeneous biomedical entity representation learning for gene–disease association prediction (Briefings in Bioinformatics, 2024) [[paper]](https://academic.oup.com/bib/article/25/5/bbae380/7735275?login=false)
 
 ### Graph neural networks
 - UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph (ICLR, 2023) [[paper]](https://arxiv.org/abs/2212.00959)
@@ -117,17 +118,7 @@ A collection of papers and resources about gene disease association prediction.
 - QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering (NAACL, 2021) [[paper]](https://aclanthology.org/2021.naacl-main.45/)
 
 ### Large language models
-- UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph (ICLR, 2023) [[paper]](https://arxiv.org/abs/2212.00959)
-- StructGPT: A General Framework for Large Language Model to Reason over Structured Data (Arxiv, 2023) [[paper]](https://arxiv.org/abs/2305.09645)
-- An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA (AAAI, 2022) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20215)
-- An Empirical Study of Pre-trained Language Models in Simple Knowledge Graph Question Answering (World Wide Web Journal, 2023) [[paper]](https://arxiv.org/abs/2303.10368)
-- Empowering Language Models with Knowledge Graph Reasoning for Open-Domain Question Answering (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.650.pdf)
-- DRLK: Dynamic Hierarchical Reasoning with Language Model and Knowledge Graph for Question Answering (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.342/)
-- Subgraph Retrieval Enhanced Model for Multi-hop Knowledge Base Question Answering (ACL, 2022) [[paper]](https://aclanthology.org/2022.acl-long.396.pdf)
-- GREASELM: GRAPH REASONING ENHANCED LANGUAGE MODELS FOR QUESTION ANSWERING (ICLR, 2022) [[paper]](https://openreview.net/pdf?id=41e9o6cQPj)
-- LaKo: Knowledge-driven Visual Question Answering via Late Knowledge-to-Text Injection (IJCKG, 2022) [[paper]](https://arxiv.org/abs/2207.12888)
-- QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering (NAACL, 2021) [[paper]](https://aclanthology.org/2021.naacl-main.45/)
-
+- GPAD: a natural language processing-based application to extract the gene-disease association discovery information from OMIM (BMC BIOINFORMATICS, 2024) [[paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05693-x)
 
 ## Advances and Applications
 ### Evaluation protocols and Results
