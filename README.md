@@ -83,6 +83,7 @@ A collection of papers and resources about gene disease association prediction.
 ### Network-based methods
 - Network-based approaches for disease-gene association prediction using protein-protein interaction networks (International Journal of Molecular Sciences, 2022) [[paper]](https://www.mdpi.com/1422-0067/23/13/7411)
 - Predicting Drug–Gene–Disease Associations by Tensor Decomposition for Network-Based Computational Drug Repositioning (Biomedicines, 2023) [[paper]](https://www.mdpi.com/1422-0067/23/13/7411)
+- Identifying potential association on gene-disease network via dual hypergraph regularized least squares (BMC Genomics, 2021) [[paper]](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07864-z) [[Code]](https://github.com/guofei-tju/DHRLS)
 
 ### Machine learning methods
 - Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models (COLING 2024) [[paper]](https://arxiv.org/abs/2403.01972) [[Code]](https://github.com/quqxui/MPIKGC)
@@ -108,19 +109,12 @@ A collection of papers and resources about gene disease association prediction.
 - Multi-domain knowledge graph embeddings for gene-disease association prediction (Journal of Biomedical Semantics, 2023) [[paper]](https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-023-00291-x) [[Code]](https://github.com/liseda-lab/KGE_Predictions_GD)
 
 ### Graph neural networks
-- UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph (ICLR, 2023) [[paper]](https://arxiv.org/abs/2212.00959)
-- StructGPT: A General Framework for Large Language Model to Reason over Structured Data (Arxiv, 2023) [[paper]](https://arxiv.org/abs/2305.09645)
-- An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA (AAAI, 2022) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20215)
-- An Empirical Study of Pre-trained Language Models in Simple Knowledge Graph Question Answering (World Wide Web Journal, 2023) [[paper]](https://arxiv.org/abs/2303.10368)
-- Empowering Language Models with Knowledge Graph Reasoning for Open-Domain Question Answering (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.650.pdf)
-- DRLK: Dynamic Hierarchical Reasoning with Language Model and Knowledge Graph for Question Answering (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.342/)
-- Subgraph Retrieval Enhanced Model for Multi-hop Knowledge Base Question Answering (ACL, 2022) [[paper]](https://aclanthology.org/2022.acl-long.396.pdf)
-- GREASELM: GRAPH REASONING ENHANCED LANGUAGE MODELS FOR QUESTION ANSWERING (ICLR, 2022) [[paper]](https://openreview.net/pdf?id=41e9o6cQPj)
-- LaKo: Knowledge-driven Visual Question Answering via Late Knowledge-to-Text Injection (IJCKG, 2022) [[paper]](https://arxiv.org/abs/2207.12888)
-- QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering (NAACL, 2021) [[paper]](https://aclanthology.org/2021.naacl-main.45/)
+- Ensemble learning methods and heterogeneous graph network fusion: building drug-gene-disease triple association prediction models (Briefings in Bioinformatics, 2025) [[paper]](https://academic.oup.com/bib/article/26/4/bbaf369/8211399?login=false)
+- End-to-end interpretable disease-gene association prediction (Briefings in Bioinformatics, 2023) [[paper]](https://academic.oup.com/bib/article/24/3/bbad118/7091476?login=false) [[Code]](https://github.com/catly/DGP-PGTN)
 
 ### Large language models
 - GPAD: a natural language processing-based application to extract the gene-disease association discovery information from OMIM (BMC BIOINFORMATICS, 2024) [[paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05693-x)
+- Multi-ontology embeddings approach on human-aligned multi-ontologies representation for gene-disease associations prediction (Heliyon, 2023) [[paper]](https://www.cell.com/heliyon/fulltext/S2405-8440(23)08710-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405844023087108%3Fshowall%3Dtrue) [[Code]](https://github.com/Yihao21/MultiOE-4-GDA-Prediction)
 
 ## Advances and Applications
 ### Evaluation protocols and Results
