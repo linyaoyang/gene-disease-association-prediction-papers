@@ -84,6 +84,10 @@ A collection of papers and resources about gene disease association prediction.
 - Network-based approaches for disease-gene association prediction using protein-protein interaction networks (International Journal of Molecular Sciences, 2022) [[paper]](https://www.mdpi.com/1422-0067/23/13/7411)
 - Predicting Drug–Gene–Disease Associations by Tensor Decomposition for Network-Based Computational Drug Repositioning (Biomedicines, 2023) [[paper]](https://www.mdpi.com/1422-0067/23/13/7411)
 - Identifying potential association on gene-disease network via dual hypergraph regularized least squares (BMC Genomics, 2021) [[paper]](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07864-z) [[Code]](https://github.com/guofei-tju/DHRLS)
+- Gene–disease association with literature based enrichment (Journal of Biomedical Informatics, 2014) [[paper]](https://www.sciencedirect.com/science/article/pii/S1532046414000641?via%3Dihub)
+- Recent advances in network-based methods for disease gene prediction (Briefings in Bioinformatics, 2021) [[paper]](https://academic.oup.com/bib/article/22/4/bbaa303/6023077?login=false)
+- Prediction and Validation of Gene-Disease Associations Using Methods Inspired by Social Network Analyses (Plos One, 2013) [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058977)
+- ANTENNA, a Multi-Rank, Multi-Layered Recommender System for Inferring Reliable Drug-Gene-Disease Associations: Repurposing Diazoxide as a Targeted Anti-Cancer Therapy (IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2018) [[paper]](https://ieeexplore.ieee.org/document/8318603)
 
 ### Machine learning methods
 - Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models (COLING 2024) [[paper]](https://arxiv.org/abs/2403.01972) [[Code]](https://github.com/quqxui/MPIKGC)
