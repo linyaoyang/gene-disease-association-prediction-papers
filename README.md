@@ -85,6 +85,7 @@ A collection of papers and resources about gene disease association prediction.
 - Group spike-and-slab lasso generalized linear models for disease prediction and associated genes detection by incorporating pathway information (Bioinformatics, 2018) [[paper]](https://academic.oup.com/bioinformatics/article/34/6/901/4565593?searchresult=1) [[Code]](http://www.ssg.uab.edu/bhglm/)
 - DiSTect: a Bayesian model for disease-associated gene discovery and prediction in spatial transcriptomics (Bioinformatics, 2025) [[paper]](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaf530/8261372?searchresult=1) [[Code]](https://github.com/StaGill/DiSTect)
 - AITeQ: a machine learning framework for Alzheimer’s prediction using a distinctive five-gene signature (Briefings in Bioinformatics, 2024) [[paper]](https://academic.oup.com/bib/article/25/4/bbae291/7692307?searchresult=1) [[Code]](https://github.com/ishtiaque-ahammad/AITeQ)
+- Machine learning approaches for the discovery of gene–gene interactions in disease data (Briefings in Bioinformatics, 2013) [[paper]](https://academic.oup.com/bib/article/14/2/251/208670?login=false)
 
 ### Deep learning methods
 - PheSeq, a Bayesian deep learning model to enhance and interpret the gene-disease association studies (Genome Medicine, 2024) [[paper]](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01330-7) [[Code]](https://github.com/bionlp-hzau/PheSeq)
