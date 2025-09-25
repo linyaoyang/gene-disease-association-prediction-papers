@@ -7,7 +7,7 @@ A collection of papers and resources about gene disease association prediction.
   - [Datasets](#Datasets)
     - [Gene-related datasets](#gene-related-datasets)
     - [Disease-related datasets](#disease-related-datasets)
-    - [Other datasets](#other-datasets)
+    - [GDA datasets](#gda-datasets)
   - [Methods](#methods)
     - [Network-based methods](#network-based-methods)
     - [Machine learning methods](#machine-learning-methods)
@@ -31,33 +31,14 @@ A collection of papers and resources about gene disease association prediction.
 - **BioGPS** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2009-10-11-r130) [[Link]](https://biogps.org/dataset/)
 
 ### Disease-related datasets
-- Barack’s wife hillary: Using knowledge graphs for fact-aware language modeling (ACL, 2019) [[paper]](https://aclanthology.org/P19-1598.pdf)
-- Retrieval-augmented generation for knowledge-intensive nlp tasks (NeurIPS, 2020) [[paper]](https://proceedings.neurips.cc/paper_files/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
-- Realm: Retrieval-augmented language model pre-training (ICML, 2020) [[paper]](https://dl.acm.org/doi/pdf/10.5555/3524938.3525306)
-- QA-GNN: Reasoning with language models and knowledge graphs for question answering (NAACL, 2021) [[paper]](https://aclanthology.org/2021.naacl-main.45.pdf)
-- Memory and knowledge augmented language models for inferring salience in long-form stories (EMNLP, 2021) [[paper]](https://aclanthology.org/2021.emnlp-main.65.pdf)
-- JointLK: Joint reasoning with language models and knowledge graphs for commonsense question answering (NAACL, 2022) [[paper]](https://aclanthology.org/2022.naacl-main.372.pdf)
-- Enhanced Story Comprehension for Large Language Models through Dynamic Document-Based Knowledge Graphs (AAAI, 2022) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21286)
-- Greaselm: Graph reasoning enhanced language models (ICLR, 2022) [[paper]](https://openreview.net/pdf?id=41e9o6cQPj)
-- An efficient memory-augmented transformer for knowledge-intensive NLP tasks (EMNLP, 2022) [[paper]](https://aclanthology.org/2022.emnlp-main.346.pdf)
-- Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering (NLRSE@ACL, 2023) [[paper]](https://arxiv.org/abs/2306.04136)
-- LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments (EMNLP Findings, 2024) [[paper](https://arxiv.org/abs/2408.15903)] 
+- **MeSH** [[paper]](https://pmc.ncbi.nlm.nih.gov/articles/PMC35238/) [[Link]](https://www.nlm.nih.gov/mesh/meshhome.html)
+- **HPO** [[paper]](https://pubmed.ncbi.nlm.nih.gov/33264411/) [[Link]](https://hpo.jax.org/)
+- **DO** [[paper]](https://pubmed.ncbi.nlm.nih.gov/22080554/) [[Link]](https://disease-ontology.org/)
 
-
-### Other datasets
-- Language models as knowledge bases (EMNLP, 2019) [[paper]](https://arxiv.org/pdf/1909.01066.pdf)
-- Kagnet: Knowledge-aware graph networks for commonsense reasoning (Arxiv, 2019) [[paper]](https://arxiv.org/pdf/1909.02151.pdf)
-- Autoprompt: Eliciting knowledge from language models with automatically generated prompts (EMNLP, 2020) [[paper]](https://arxiv.org/pdf/2010.15980.pdf)
-- How can we know what language models know? (ACL, 2020) [[paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00324/96460)
-- Knowledge neurons in pretrained transformers (ACL, 2021) [[paper]](https://arxiv.org/pdf/2104.08696.pdf)
-- Can Language Models be Biomedical Knowledge Bases? (EMNLP, 2021) [[paper]](https://arxiv.org/pdf/2109.07154.pdf)
-- Interpreting language models through knowledge graph extraction (Arxiv, 2021) [[paper]](https://arxiv.org/pdf/2111.08546.pdf)
-- QA-GNN: Reasoning with language models and knowledge graphs for question answering (ACL, 2021) [[paper]](https://arxiv.org/pdf/2104.06378.pdf)
-- How to Query Language Models? (Arxiv, 2021) [[paper]](https://arxiv.org/pdf/2108.01928.pdf)
-- Rewire-then-probe: A contrastive recipe for probing biomedical knowledge of pre-trained language models (Arxiv, 2021) [[paper]](https://arxiv.org/pdf/2110.08173.pdf)
-- When Not to Trust Language Models: Investigating Effectiveness and Limitations of Parametric and Non-Parametric Memories (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2212.10511.pdf)
-- How Pre-trained Language Models Capture Factual Knowledge? A Causal-Inspired Analysis (Arxiv, 2022) [[paper]](https://arxiv.org/pdf/2203.16747.pdf)
-- Can Knowledge Graphs Simplify Text? (CIKM, 2023) [[paper]](https://dl.acm.org/doi/10.1145/3583780.3615514)
+### GDA datasets
+- **CTD** [[paper]](https://academic.oup.com/nar/article/53/D1/D1328/7816860) [[Link]](https://ctdbase.org/)
+- **OMIM** [[paper]](https://pubmed.ncbi.nlm.nih.gov/15608251/) [[Link]](https://www.omim.org/)
+- **DisGeNET** [[paper]](https://pubmed.ncbi.nlm.nih.gov/27924018/) [[Link]](https://disease-ontology.org/)
 
 ## Methods
 ### Network-based methods
