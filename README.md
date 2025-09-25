@@ -112,6 +112,7 @@ A collection of papers and resources about gene disease association prediction.
 - GPAD: a natural language processing-based application to extract the gene-disease association discovery information from OMIM (BMC BIOINFORMATICS, 2024) [[paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05693-x)
 - Multi-ontology embeddings approach on human-aligned multi-ontologies representation for gene-disease associations prediction (Heliyon, 2023) [[paper]](https://www.cell.com/heliyon/fulltext/S2405-8440(23)08710-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405844023087108%3Fshowall%3Dtrue) [[Code]](https://github.com/Yihao21/MultiOE-4-GDA-Prediction)
 - A large language model framework for literature-based disease–gene association prediction (Briefings in Bioinformatics, 2025) [[paper]](https://academic.oup.com/bib/article/26/1/bbaf070/8042066?searchresult=1) [[Code]](https://github.com/ailabstw/LORE)
+- BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model (Arxiv, 2025) [[paper]](https://arxiv.org/abs/2505.23579) [[Code]](https://github.com/bowang-lab/BioReason)
 
 ## Advances and Applications
 ### Evaluation protocols and Results
