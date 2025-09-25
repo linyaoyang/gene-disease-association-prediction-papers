@@ -8,6 +8,7 @@ A collection of papers and resources about gene disease association prediction.
     - [Gene-related datasets](#gene-related-datasets)
     - [Disease-related datasets](#disease-related-datasets)
     - [GDA datasets](#gda-datasets)
+    - [Extended resources](#extended-resources)
   - [Methods](#methods)
     - [Network-based methods](#network-based-methods)
     - [Machine learning methods](#machine-learning-methods)
@@ -39,6 +40,17 @@ A collection of papers and resources about gene disease association prediction.
 - **CTD** [[paper]](https://academic.oup.com/nar/article/53/D1/D1328/7816860) [[Link]](https://ctdbase.org/)
 - **OMIM** [[paper]](https://pubmed.ncbi.nlm.nih.gov/15608251/) [[Link]](https://www.omim.org/)
 - **DisGeNET** [[paper]](https://pubmed.ncbi.nlm.nih.gov/27924018/) [[Link]](https://disease-ontology.org/)
+
+### Extended resources
+- **HPRD** [[paper]](https://pubmed.ncbi.nlm.nih.gov/18988627/) [[Link]](http://www.hprd.org/)
+- **BIND** [[paper]](https://pmc.ncbi.nlm.nih.gov/articles/PMC165503/) [[Link]](http://bind.ca/)
+- **BioGRID** [[paper]](https://pubmed.ncbi.nlm.nih.gov/33070389/) [[Link]](https://thebiogrid.org/)
+- **IntAct** [[paper]](https://pubmed.ncbi.nlm.nih.gov/22121220/) [[Link]](https://www.ebi.ac.uk/intact/)
+- **STRING** [[paper]](https://academic.oup.com/nar/article/49/D1/D605/6006194?login=false) [[Link]](https://string-db.org/)
+- **KEGG** [[paper]](https://pmc.ncbi.nlm.nih.gov/articles/PMC102409/) [[Link]](https://www.genome.jp/kegg/)
+- **Reactome** [[paper]](https://pubmed.ncbi.nlm.nih.gov/31691815/) [[Link]](https://reactome.org/)
+- **DrugBank** [[paper]](https://pubmed.ncbi.nlm.nih.gov/37953279/) [[Link]](https://go.drugbank.com/)
+- **ChEMBL** [[paper]](https://pubmed.ncbi.nlm.nih.gov/21948594/) [[Link]](https://www.ebi.ac.uk/chembl/)
 
 ## Methods
 ### Network-based methods
