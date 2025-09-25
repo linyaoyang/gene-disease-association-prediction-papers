@@ -127,6 +127,7 @@ Pretraining (NIPS, 2022) [[paper]](https://arxiv.org/abs/2210.09338)
 * In silico prediction of novel therapeutic targets using gene--disease association data (Journal of translational medicine, 2017) [[paper]](https://link.springer.com/article/10.1186/s12967-017-1285-6)
 * AITeQ: a machine learning framework for Alzheimer’s prediction using a distinctive five-gene signature (Briefings in Bioinformatics, 2024) [[paper]](https://academic.oup.com/bib/article/25/4/bbae291/7692307?searchresult=1) [[Code]](https://github.com/ishtiaque-ahammad/AITeQ)
 * Improving drug response prediction via integrating gene relationships with deep learning (Briefings in Bioinformatics, 2024) [[paper]](https://academic.oup.com/bib/article/25/3/bbae153/7642699?searchresult=1#supplementary-data) [[Code]](https://github.com/user15632/DIPK)
+* Comparative study of joint analysis of microarray gene expression data in survival prediction and risk assessment of breast cancer patients (Briefings in Bioinformatics, 2016) [[paper]](https://academic.oup.com/bib/article/17/5/771/2262453?searchresult=1)
 
 ## Challenges and Future Directions
 * RecInDial: A Unified Framework for Conversational Recommendation with Pretrained Language Models (Arxiv, 2023) [[paper]](https://arxiv.org/pdf/2110.07477.pdf)
