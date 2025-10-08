@@ -40,6 +40,7 @@ A collection of papers and resources about gene disease association prediction.
 - **CTD** [[paper]](https://academic.oup.com/nar/article/53/D1/D1328/7816860) [[Link]](https://ctdbase.org/)
 - **OMIM** [[paper]](https://pubmed.ncbi.nlm.nih.gov/15608251/) [[Link]](https://www.omim.org/)
 - **DisGeNET** [[paper]](https://pubmed.ncbi.nlm.nih.gov/27924018/) [[Link]](https://disease-ontology.org/)
+- **PMKB-CV** [[paper]](https://academic.oup.com/bib/article/26/1/bbaf070/8042066?searchresult=1) [[Link]](https://zenodo.org/records/14607639)
 
 ### Extended resources
 - **HPRD** [[paper]](https://pubmed.ncbi.nlm.nih.gov/18988627/) [[Link]](http://www.hprd.org/)
