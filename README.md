@@ -39,6 +39,7 @@ A collection of papers and resources about gene disease association prediction.
 ### GDA datasets
 - **CTD** [[paper]](https://academic.oup.com/nar/article/53/D1/D1328/7816860) [[Link]](https://ctdbase.org/)
 - **OMIM** [[paper]](https://pubmed.ncbi.nlm.nih.gov/15608251/) [[Link]](https://www.omim.org/)
+- **MalaCards** [[paper]](https://pubmed.ncbi.nlm.nih.gov/27899610/) [[Link]](https://www.malacards.org/)
 - **DisGeNET** [[paper]](https://pubmed.ncbi.nlm.nih.gov/27924018/) [[Link]](https://disease-ontology.org/)
 
 ### Extended resources
